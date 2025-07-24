@@ -185,5 +185,4 @@ To run the complete evaluation pipeline:
 bash run_test.sh
 ```
 
-ack
 
