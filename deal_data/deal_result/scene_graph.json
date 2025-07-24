@@ -1,0 +1,6365 @@
+{
+  "0A8ZT": {
+    "42": {
+      "objects": [
+        "medicine"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine. The medicine is in front of the person. The person is holding the medicine."
+    },
+    "87": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding",
+          "touching"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle. The person is touching the cup/glass/bottle."
+    },
+    "111": {
+      "objects": [
+        "medicine"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine. The medicine is in front of the person. The person is holding the medicine."
+    },
+    "125": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "136": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "160": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "172": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "174": {
+      "objects": [
+        "medicine"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine. The medicine is in front of the person. The person is holding the medicine."
+    },
+    "184": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine. The person is not looking at the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "186": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine. The person is not looking at the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "198": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "199": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding",
+          "drinking_from"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle. The person is drinking from the cup/glass/bottle."
+    },
+    "207": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine. The person is not looking at the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "222": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "226": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "236": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding",
+          "eating"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle. The person is eating the medicine."
+    },
+    "245": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The cup/glass/bottle is on the side of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "253": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "269": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The person is not looking at the medicine. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "280": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The cup/glass/bottle is on the side of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "287": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "289": {
+      "objects": [
+        "medicine",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The medicine and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle."
+    },
+    "334": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The person is not looking at the shelf. The medicine, the shelf, and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle. The person is not contacting the shelf."
+    },
+    "337": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "on_the_side_of",
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The person is not looking at the shelf. The medicine, the shelf, and the cup/glass/bottle are in front of the person. The shelf is on the side of the person. The person is holding the medicine and the cup/glass/bottle. The person is not contacting the shelf."
+    },
+    "342": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine and the cup/glass/bottle. The person is not looking at the shelf. The medicine, the shelf, and the cup/glass/bottle are in front of the person. The shelf and the cup/glass/bottle are on the side of the person. The person is holding the medicine and the cup/glass/bottle. The person is not contacting the shelf."
+    },
+    "353": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine, the shelf, and the cup/glass/bottle. The medicine, the shelf, and the cup/glass/bottle are in front of the person. The shelf is on the side of the person. The person is holding the medicine and the cup/glass/bottle. The person is not contacting the shelf."
+    },
+    "358": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine, the shelf, and the cup/glass/bottle. The medicine, the shelf, and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle. The person is not contacting the shelf."
+    },
+    "372": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "beneath"
+        ],
+        "shelf": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "touching"
+        ],
+        "shelf": [
+          "touching"
+        ],
+        "cup/glass/bottle": [
+          "touching"
+        ]
+      },
+      "script": "The person is looking at the medicine, the shelf, and the cup/glass/bottle. The medicine is beneath the person. The shelf and the cup/glass/bottle are in front of the person. The person is touching the medicine, the shelf, and the cup/glass/bottle."
+    },
+    "373": {
+      "objects": [
+        "medicine",
+        "shelf"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "beneath"
+        ],
+        "shelf": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the medicine and the shelf. The medicine is beneath the person. The shelf is in front of the person. The person is holding the medicine. The person is not contacting the shelf."
+    },
+    "374": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "beneath"
+        ],
+        "shelf": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine, the shelf, and the cup/glass/bottle. The medicine is beneath the person. The shelf and the cup/glass/bottle are in front of the person. The person is holding the medicine and the cup/glass/bottle. The person is not contacting the shelf."
+    },
+    "385": {
+      "objects": [
+        "medicine",
+        "shelf"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "beneath"
+        ],
+        "shelf": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "not_contacting"
+        ],
+        "shelf": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the medicine and the shelf. The medicine is beneath the person. The shelf is in front of the person. The person is not contacting the medicine and the shelf."
+    },
+    "387": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "beneath"
+        ],
+        "shelf": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "not_contacting"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the medicine and the shelf. The person is not looking at the cup/glass/bottle. The medicine is beneath the person. The shelf and the cup/glass/bottle are in front of the person. The person is not contacting the medicine, the shelf, and the cup/glass/bottle."
+    },
+    "389": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "beneath"
+        ],
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "not_contacting"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the medicine, the shelf, and the cup/glass/bottle. The medicine is beneath the person. The shelf and the cup/glass/bottle are in front of the person. The shelf is on the side of the person. The person is not contacting the medicine, the shelf, and the cup/glass/bottle."
+    },
+    "393": {
+      "objects": [
+        "medicine",
+        "shelf"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "beneath",
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "not_contacting"
+        ],
+        "shelf": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the medicine. The person is not looking at the shelf. The medicine is beneath the person. The medicine and the shelf are in front of the person. The person is not contacting the medicine and the shelf."
+    },
+    "399": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "not_contacting"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the medicine, the shelf, and the cup/glass/bottle. The medicine, the shelf, and the cup/glass/bottle are in front of the person. The person is not contacting the medicine, the shelf, and the cup/glass/bottle."
+    },
+    "400": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "beneath"
+        ],
+        "shelf": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "not_contacting"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the medicine, the shelf, and the cup/glass/bottle. The medicine is beneath the person. The shelf and the cup/glass/bottle are in front of the person. The person is not contacting the medicine, the shelf, and the cup/glass/bottle."
+    },
+    "405": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "not_contacting"
+        ],
+        "shelf": [
+          "touching"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the medicine, the shelf, and the cup/glass/bottle. The medicine, the shelf, and the cup/glass/bottle are in front of the person. The shelf is on the side of the person. The person is not contacting the medicine and the cup/glass/bottle. The person is touching the shelf."
+    },
+    "408": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "not_contacting"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the medicine. The person is not looking at the shelf and the cup/glass/bottle. The medicine, the shelf, and the cup/glass/bottle are in front of the person. The person is not contacting the medicine, the shelf, and the cup/glass/bottle."
+    },
+    "411": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "not_contacting"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the medicine, the shelf, and the cup/glass/bottle. The medicine, the shelf, and the cup/glass/bottle are in front of the person. The shelf is on the side of the person. The person is not contacting the medicine, the shelf, and the cup/glass/bottle."
+    },
+    "412": {
+      "objects": [
+        "medicine",
+        "shelf",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "beneath"
+        ],
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "not_contacting"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the medicine, the shelf, and the cup/glass/bottle. The medicine is beneath the person. The shelf and the cup/glass/bottle are in front of the person. The shelf is on the side of the person. The person is not contacting the medicine, the shelf, and the cup/glass/bottle."
+    },
+    "415": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is not looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The person is not contacting the cup/glass/bottle."
+    },
+    "422": {
+      "objects": [
+        "phone/camera",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "phone/camera": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the phone/camera. The phone/camera and the cup/glass/bottle are in front of the person. The person is holding the phone/camera. The person is not contacting the cup/glass/bottle."
+    },
+    "429": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the phone/camera. The phone/camera is in front of the person. The person is holding the phone/camera."
+    },
+    "430": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the phone/camera. The phone/camera is in front of the person. The person is holding the phone/camera."
+    },
+    "431": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the phone/camera. The phone/camera is in front of the person. The person is holding the phone/camera."
+    },
+    "445": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the phone/camera. The phone/camera is in front of the person. The person is holding the phone/camera."
+    },
+    "450": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the phone/camera. The phone/camera is in front of the person. The person is holding the phone/camera."
+    },
+    "452": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the phone/camera. The phone/camera is in front of the person. The person is holding the phone/camera."
+    },
+    "468": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the phone/camera. The phone/camera is in front of the person. The person is holding the phone/camera."
+    },
+    "471": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "touching"
+        ]
+      },
+      "script": "The person is looking at the phone/camera. The phone/camera is in front of the person. The person is touching the phone/camera."
+    },
+    "472": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the phone/camera. The phone/camera is in front of the person. The person is holding the phone/camera."
+    },
+    "491": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the phone/camera. The phone/camera is in front of the person. The person is holding the phone/camera."
+    },
+    "492": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the phone/camera. The phone/camera is in front of the person. The person is holding the phone/camera."
+    }
+  },
+  "0ACZ8": {
+    "8": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "18": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "21": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "34": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "39": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "47": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "52": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "60": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "86": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "115": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "119": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "153": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "192": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "268": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "344": {
+      "objects": [
+        "mirror"
+      ],
+      "attention": {
+        "mirror": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "mirror": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "mirror": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the mirror. The mirror is in front of the person. The person is not contacting the mirror."
+    },
+    "415": {
+      "objects": [
+        "towel"
+      ],
+      "attention": {
+        "towel": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "towel": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "towel": [
+          "holding"
+        ]
+      },
+      "script": "The towel is in front of the person. The person is holding the towel."
+    },
+    "445": {
+      "objects": [
+        "towel"
+      ],
+      "attention": {
+        "towel": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "towel": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "towel": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the towel. The towel is in front of the person. The person is holding the towel."
+    },
+    "474": {
+      "objects": [
+        "towel"
+      ],
+      "attention": {
+        "towel": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "towel": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "towel": [
+          "touching"
+        ]
+      },
+      "script": "The person is looking at the towel. The towel is in front of the person. The person is touching the towel."
+    }
+  },
+  "0AGCS": {
+    "261": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "holding"
+        ]
+      },
+      "script": "The blanket is in front of the person. The person is holding the blanket."
+    },
+    "365": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "holding"
+        ]
+      },
+      "script": "The blanket is in front of the person. The person is holding the blanket."
+    },
+    "435": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "holding"
+        ]
+      },
+      "script": "The blanket is in front of the person. The person is holding the blanket."
+    },
+    "458": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "holding"
+        ]
+      },
+      "script": "The blanket is in front of the person. The person is holding the blanket."
+    },
+    "469": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "holding"
+        ]
+      },
+      "script": "The blanket is in front of the person. The person is holding the blanket."
+    },
+    "482": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "holding"
+        ]
+      },
+      "script": "The blanket is in front of the person. The person is holding the blanket."
+    },
+    "500": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "not_contacting"
+        ]
+      },
+      "script": "The blanket is in front of the person. The person is not contacting the blanket."
+    },
+    "505": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "not_contacting"
+        ]
+      },
+      "script": "The blanket is behind the person. The blanket is on the side of the person. The person is not contacting the blanket."
+    },
+    "524": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "not_contacting"
+        ]
+      },
+      "script": "The blanket is in front of the person. The person is not contacting the blanket."
+    },
+    "528": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "not_contacting"
+        ]
+      },
+      "script": "The blanket is in front of the person. The blanket is on the side of the person. The person is not contacting the blanket."
+    },
+    "548": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the blanket. The blanket is in front of the person. The person is holding the blanket."
+    },
+    "571": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "not_contacting"
+        ]
+      },
+      "script": "The blanket is in front of the person. The blanket is on the side of the person. The person is not contacting the blanket."
+    },
+    "595": {
+      "objects": [
+        "blanket"
+      ],
+      "attention": {
+        "blanket": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "blanket": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "blanket": [
+          "not_contacting"
+        ]
+      },
+      "script": "The blanket is in front of the person. The blanket is on the side of the person. The person is not contacting the blanket."
+    }
+  },
+  "0AMBV": {
+    "29": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food and the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "30": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food and the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "86": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food and the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "89": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "unsure"
+        ],
+        "medicine": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "128": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food and the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "142": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food and the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "148": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food and the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "151": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food and the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "173": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "not_looking_at"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine. The person is not looking at the food. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "195": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food and the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "198": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food and the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "207": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food and the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "218": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "unsure"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "231": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "unsure"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "247": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "unsure"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine. The food and the medicine are in front of the person. The person is holding the food and the medicine."
+    },
+    "255": {
+      "objects": [
+        "medicine"
+      ],
+      "attention": {
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "medicine": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "medicine": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the medicine. The medicine is in front of the person. The person is holding the medicine."
+    },
+    "263": {
+      "objects": [
+        "food",
+        "medicine"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "medicine": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "on_the_side_of"
+        ],
+        "medicine": [
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "touching"
+        ],
+        "medicine": [
+          "touching"
+        ]
+      },
+      "script": "The person is looking at the food and the medicine. The food and the medicine are on the side of the person. The person is touching the food and the medicine."
+    },
+    "279": {
+      "objects": [
+        "food"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the food. The food is on the side of the person. The person is not contacting the food."
+    },
+    "295": {
+      "objects": [
+        "food"
+      ],
+      "attention": {
+        "food": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the food. The food is in front of the person. The person is holding the food."
+    }
+  },
+  "0AYPZ": {
+    "291": {
+      "objects": [
+        "window",
+        "vacuum",
+        "floor"
+      ],
+      "attention": {
+        "window": [
+          "not_looking_at"
+        ],
+        "vacuum": [
+          "looking_at"
+        ],
+        "floor": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "window": [
+          "on_the_side_of"
+        ],
+        "vacuum": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "floor": [
+          "beneath"
+        ]
+      },
+      "contact": {
+        "window": [
+          "not_contacting"
+        ],
+        "vacuum": [
+          "holding"
+        ],
+        "floor": [
+          "standing_on"
+        ]
+      },
+      "script": "The person is looking at the vacuum and the floor. The person is not looking at the window. The window and the vacuum are on the side of the person. The vacuum is in front of the person. The floor is beneath the person. The person is not contacting the window. The person is holding the vacuum. The person is standing on the floor."
+    },
+    "326": {
+      "objects": [
+        "window",
+        "vacuum",
+        "floor"
+      ],
+      "attention": {
+        "window": [
+          "unsure"
+        ],
+        "vacuum": [
+          "not_looking_at"
+        ],
+        "floor": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "window": [
+          "in_front_of"
+        ],
+        "vacuum": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "floor": [
+          "beneath"
+        ]
+      },
+      "contact": {
+        "window": [
+          "not_contacting"
+        ],
+        "vacuum": [
+          "holding"
+        ],
+        "floor": [
+          "standing_on"
+        ]
+      },
+      "script": "The person is not looking at the vacuum. The window and the vacuum are in front of the person. The vacuum is on the side of the person. The floor is beneath the person. The person is not contacting the window. The person is holding the vacuum. The person is standing on the floor."
+    },
+    "372": {
+      "objects": [
+        "window",
+        "vacuum",
+        "floor"
+      ],
+      "attention": {
+        "window": [
+          "not_looking_at"
+        ],
+        "vacuum": [
+          "looking_at"
+        ],
+        "floor": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "window": [
+          "in_front_of"
+        ],
+        "vacuum": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "floor": [
+          "beneath"
+        ]
+      },
+      "contact": {
+        "window": [
+          "not_contacting"
+        ],
+        "vacuum": [
+          "holding"
+        ],
+        "floor": [
+          "standing_on"
+        ]
+      },
+      "script": "The person is looking at the vacuum. The person is not looking at the window. The window and the vacuum are in front of the person. The vacuum is on the side of the person. The floor is beneath the person. The person is not contacting the window. The person is holding the vacuum. The person is standing on the floor."
+    },
+    "400": {
+      "objects": [
+        "window",
+        "vacuum",
+        "floor"
+      ],
+      "attention": {
+        "window": [
+          "not_looking_at"
+        ],
+        "vacuum": [
+          "unsure"
+        ],
+        "floor": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "window": [
+          "in_front_of"
+        ],
+        "vacuum": [
+          "in_front_of"
+        ],
+        "floor": [
+          "beneath"
+        ]
+      },
+      "contact": {
+        "window": [
+          "not_contacting"
+        ],
+        "vacuum": [
+          "holding"
+        ],
+        "floor": [
+          "standing_on"
+        ]
+      },
+      "script": "The person is looking at the floor. The person is not looking at the window. The window and the vacuum are in front of the person. The floor is beneath the person. The person is not contacting the window. The person is holding the vacuum. The person is standing on the floor."
+    },
+    "454": {
+      "objects": [
+        "window",
+        "vacuum",
+        "floor"
+      ],
+      "attention": {
+        "window": [
+          "looking_at"
+        ],
+        "vacuum": [
+          "unsure"
+        ],
+        "floor": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "window": [
+          "on_the_side_of"
+        ],
+        "vacuum": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "floor": [
+          "beneath"
+        ]
+      },
+      "contact": {
+        "window": [
+          "not_contacting"
+        ],
+        "vacuum": [
+          "holding"
+        ],
+        "floor": [
+          "standing_on"
+        ]
+      },
+      "script": "The person is looking at the window and the floor. The window and the vacuum are on the side of the person. The vacuum is in front of the person. The floor is beneath the person. The person is not contacting the window. The person is holding the vacuum. The person is standing on the floor."
+    },
+    "474": {
+      "objects": [
+        "window",
+        "vacuum",
+        "floor"
+      ],
+      "attention": {
+        "window": [
+          "not_looking_at"
+        ],
+        "vacuum": [
+          "not_looking_at"
+        ],
+        "floor": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "window": [
+          "on_the_side_of"
+        ],
+        "vacuum": [
+          "in_front_of"
+        ],
+        "floor": [
+          "beneath"
+        ]
+      },
+      "contact": {
+        "window": [
+          "not_contacting"
+        ],
+        "vacuum": [
+          "holding"
+        ],
+        "floor": [
+          "standing_on"
+        ]
+      },
+      "script": "The person is not looking at the window, the vacuum, and the floor. The window is on the side of the person. The vacuum is in front of the person. The floor is beneath the person. The person is not contacting the window. The person is holding the vacuum. The person is standing on the floor."
+    },
+    "536": {
+      "objects": [
+        "window",
+        "vacuum",
+        "floor"
+      ],
+      "attention": {
+        "window": [
+          "not_looking_at"
+        ],
+        "vacuum": [
+          "unsure"
+        ],
+        "floor": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "window": [
+          "on_the_side_of"
+        ],
+        "vacuum": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "floor": [
+          "beneath"
+        ]
+      },
+      "contact": {
+        "window": [
+          "not_contacting"
+        ],
+        "vacuum": [
+          "holding"
+        ],
+        "floor": [
+          "standing_on"
+        ]
+      },
+      "script": "The person is looking at the floor. The person is not looking at the window. The window and the vacuum are on the side of the person. The vacuum is in front of the person. The floor is beneath the person. The person is not contacting the window. The person is holding the vacuum. The person is standing on the floor."
+    },
+    "547": {
+      "objects": [
+        "window",
+        "vacuum",
+        "floor"
+      ],
+      "attention": {
+        "window": [
+          "not_looking_at"
+        ],
+        "vacuum": [
+          "looking_at"
+        ],
+        "floor": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "window": [
+          "on_the_side_of"
+        ],
+        "vacuum": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "floor": [
+          "beneath"
+        ]
+      },
+      "contact": {
+        "window": [
+          "not_contacting"
+        ],
+        "vacuum": [
+          "holding"
+        ],
+        "floor": [
+          "standing_on"
+        ]
+      },
+      "script": "The person is looking at the vacuum and the floor. The person is not looking at the window. The window and the vacuum are on the side of the person. The vacuum is in front of the person. The floor is beneath the person. The person is not contacting the window. The person is holding the vacuum. The person is standing on the floor."
+    },
+    "617": {
+      "objects": [
+        "window",
+        "vacuum",
+        "floor"
+      ],
+      "attention": {
+        "window": [
+          "not_looking_at"
+        ],
+        "vacuum": [
+          "looking_at"
+        ],
+        "floor": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "window": [
+          "on_the_side_of"
+        ],
+        "vacuum": [
+          "in_front_of"
+        ],
+        "floor": [
+          "beneath"
+        ]
+      },
+      "contact": {
+        "window": [
+          "not_contacting"
+        ],
+        "vacuum": [
+          "holding"
+        ],
+        "floor": [
+          "standing_on"
+        ]
+      },
+      "script": "The person is looking at the vacuum and the floor. The person is not looking at the window. The window is on the side of the person. The vacuum is in front of the person. The floor is beneath the person. The person is not contacting the window. The person is holding the vacuum. The person is standing on the floor."
+    },
+    "621": {
+      "objects": [
+        "window",
+        "vacuum",
+        "floor"
+      ],
+      "attention": {
+        "window": [
+          "not_looking_at"
+        ],
+        "vacuum": [
+          "looking_at"
+        ],
+        "floor": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "window": [
+          "in_front_of"
+        ],
+        "vacuum": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "floor": [
+          "beneath"
+        ]
+      },
+      "contact": {
+        "window": [
+          "not_contacting"
+        ],
+        "vacuum": [
+          "holding"
+        ],
+        "floor": [
+          "standing_on"
+        ]
+      },
+      "script": "The person is looking at the vacuum and the floor. The person is not looking at the window. The window and the vacuum are in front of the person. The vacuum is on the side of the person. The floor is beneath the person. The person is not contacting the window. The person is holding the vacuum. The person is standing on the floor."
+    }
+  },
+  "0BH84": {
+    "159": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the phone/camera. The phone/camera is on the side of the person. The person is holding the phone/camera."
+    },
+    "236": {
+      "objects": [
+        "phone/camera"
+      ],
+      "attention": {
+        "phone/camera": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the phone/camera. The phone/camera is on the side of the person. The person is holding the phone/camera."
+    },
+    "257": {
+      "objects": [
+        "phone/camera",
+        "doorway"
+      ],
+      "attention": {
+        "phone/camera": [
+          "not_looking_at"
+        ],
+        "doorway": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "on_the_side_of"
+        ],
+        "doorway": [
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ],
+        "doorway": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is not looking at the phone/camera and the doorway. The phone/camera and the doorway are on the side of the person. The person is holding the phone/camera. The person is not contacting the doorway."
+    },
+    "295": {
+      "objects": [
+        "phone/camera",
+        "doorway"
+      ],
+      "attention": {
+        "phone/camera": [
+          "not_looking_at"
+        ],
+        "doorway": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "on_the_side_of"
+        ],
+        "doorway": [
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ],
+        "doorway": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is not looking at the phone/camera and the doorway. The phone/camera and the doorway are on the side of the person. The person is holding the phone/camera. The person is not contacting the doorway."
+    },
+    "313": {
+      "objects": [
+        "phone/camera",
+        "doorway"
+      ],
+      "attention": {
+        "phone/camera": [
+          "not_looking_at"
+        ],
+        "doorway": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "on_the_side_of"
+        ],
+        "doorway": [
+          "in"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ],
+        "doorway": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is not looking at the phone/camera and the doorway. The phone/camera is on the side of the person. The doorway is in the person. The person is holding the phone/camera. The person is not contacting the doorway."
+    },
+    "334": {
+      "objects": [
+        "phone/camera",
+        "doorway"
+      ],
+      "attention": {
+        "phone/camera": [
+          "not_looking_at"
+        ],
+        "doorway": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "on_the_side_of"
+        ],
+        "doorway": [
+          "in"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ],
+        "doorway": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is not looking at the phone/camera and the doorway. The phone/camera is on the side of the person. The doorway is in the person. The person is holding the phone/camera. The person is not contacting the doorway."
+    },
+    "372": {
+      "objects": [
+        "phone/camera",
+        "doorway"
+      ],
+      "attention": {
+        "phone/camera": [
+          "not_looking_at"
+        ],
+        "doorway": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "on_the_side_of"
+        ],
+        "doorway": [
+          "behind"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ],
+        "doorway": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is not looking at the phone/camera and the doorway. The phone/camera is on the side of the person. The doorway is behind the person. The person is holding the phone/camera. The person is not contacting the doorway."
+    },
+    "389": {
+      "objects": [
+        "table",
+        "doorway"
+      ],
+      "attention": {
+        "table": [
+          "unsure"
+        ],
+        "doorway": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "table": [
+          "in_front_of"
+        ],
+        "doorway": [
+          "behind"
+        ]
+      },
+      "contact": {
+        "table": [
+          "not_contacting"
+        ],
+        "doorway": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is not looking at the doorway. The table is in front of the person. The doorway is behind the person. The person is not contacting the table and the doorway."
+    },
+    "391": {
+      "objects": [
+        "table",
+        "doorway"
+      ],
+      "attention": {
+        "table": [
+          "unsure"
+        ],
+        "doorway": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "table": [
+          "in_front_of"
+        ],
+        "doorway": [
+          "behind"
+        ]
+      },
+      "contact": {
+        "table": [
+          "not_contacting"
+        ],
+        "doorway": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is not looking at the doorway. The table is in front of the person. The doorway is behind the person. The person is not contacting the table and the doorway."
+    },
+    "395": {
+      "objects": [
+        "table",
+        "doorway"
+      ],
+      "attention": {
+        "table": [
+          "unsure"
+        ],
+        "doorway": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "table": [
+          "in_front_of"
+        ],
+        "doorway": [
+          "behind"
+        ]
+      },
+      "contact": {
+        "table": [
+          "not_contacting"
+        ],
+        "doorway": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is not looking at the doorway. The table is in front of the person. The doorway is behind the person. The person is not contacting the table and the doorway."
+    },
+    "410": {
+      "objects": [
+        "phone/camera",
+        "doorway"
+      ],
+      "attention": {
+        "phone/camera": [
+          "not_looking_at"
+        ],
+        "doorway": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "on_the_side_of"
+        ],
+        "doorway": [
+          "behind"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ],
+        "doorway": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is not looking at the phone/camera and the doorway. The phone/camera is on the side of the person. The doorway is behind the person. The person is holding the phone/camera. The person is not contacting the doorway."
+    },
+    "466": {
+      "objects": [
+        "phone/camera",
+        "dish"
+      ],
+      "attention": {
+        "phone/camera": [
+          "unsure"
+        ],
+        "dish": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "phone/camera": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "dish": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "phone/camera": [
+          "holding"
+        ],
+        "dish": [
+          "holding"
+        ]
+      },
+      "script": "The phone/camera and the dish are in front of the person. The phone/camera is on the side of the person. The person is holding the phone/camera and the dish."
+    },
+    "512": {
+      "objects": [
+        "dish"
+      ],
+      "attention": {
+        "dish": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "dish": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "dish": [
+          "touching"
+        ]
+      },
+      "script": "The person is looking at the dish. The dish is in front of the person. The person is touching the dish."
+    },
+    "516": {
+      "objects": [
+        "table",
+        "dish"
+      ],
+      "attention": {
+        "table": [
+          "unsure"
+        ],
+        "dish": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "table": [
+          "on_the_side_of"
+        ],
+        "dish": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "table": [
+          "not_contacting"
+        ],
+        "dish": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is not looking at the dish. The table is on the side of the person. The dish is in front of the person. The person is not contacting the table and the dish."
+    },
+    "518": {
+      "objects": [
+        "table",
+        "shoe"
+      ],
+      "attention": {
+        "table": [
+          "unsure"
+        ],
+        "shoe": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "table": [
+          "in_front_of"
+        ],
+        "shoe": [
+          "beneath"
+        ]
+      },
+      "contact": {
+        "table": [
+          "not_contacting"
+        ],
+        "shoe": [
+          "wearing"
+        ]
+      },
+      "script": "The person is not looking at the shoe. The table is in front of the person. The shoe is beneath the person. The person is not contacting the table. The person is wearing the shoe."
+    },
+    "551": {
+      "objects": [
+        "shoe",
+        "dish"
+      ],
+      "attention": {
+        "shoe": [
+          "looking_at"
+        ],
+        "dish": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "shoe": [
+          "beneath"
+        ],
+        "dish": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "shoe": [
+          "wearing",
+          "touching"
+        ],
+        "dish": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the shoe. The person is not looking at the dish. The shoe is beneath the person. The dish is in front of the person. The dish is on the side of the person. The person is wearing the shoe. The person is touching the shoe. The person is not contacting the dish."
+    },
+    "561": {
+      "objects": [
+        "table",
+        "shoe",
+        "dish"
+      ],
+      "attention": {
+        "table": [
+          "not_looking_at"
+        ],
+        "shoe": [
+          "looking_at"
+        ],
+        "dish": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "table": [
+          "on_the_side_of"
+        ],
+        "shoe": [
+          "in_front_of"
+        ],
+        "dish": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "table": [
+          "not_contacting"
+        ],
+        "shoe": [
+          "holding",
+          "wearing"
+        ],
+        "dish": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the shoe. The person is not looking at the table and the dish. The table and the dish are on the side of the person. The shoe and the dish are in front of the person. The person is not contacting the table and the dish. The person is holding the shoe. The person is wearing the shoe."
+    },
+    "575": {
+      "objects": [
+        "shoe",
+        "dish"
+      ],
+      "attention": {
+        "shoe": [
+          "looking_at"
+        ],
+        "dish": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "shoe": [
+          "beneath",
+          "in_front_of"
+        ],
+        "dish": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "shoe": [
+          "touching",
+          "wearing"
+        ],
+        "dish": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the shoe. The person is not looking at the dish. The shoe is beneath the person. The shoe and the dish are in front of the person. The dish is on the side of the person. The person is touching the shoe. The person is wearing the shoe. The person is not contacting the dish."
+    },
+    "634": {
+      "objects": [
+        "shoe"
+      ],
+      "attention": {
+        "shoe": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "shoe": [
+          "in_front_of",
+          "beneath"
+        ]
+      },
+      "contact": {
+        "shoe": [
+          "holding",
+          "wearing"
+        ]
+      },
+      "script": "The person is looking at the shoe. The shoe is in front of the person. The shoe is beneath the person. The person is holding the shoe. The person is wearing the shoe."
+    },
+    "751": {
+      "objects": [
+        "shoe"
+      ],
+      "attention": {
+        "shoe": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "shoe": [
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "shoe": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the shoe. The shoe is on the side of the person. The person is holding the shoe."
+    }
+  },
+  "0BLSL": {
+    "26": {
+      "objects": [
+        "food"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food. The food is in front of the person. The person is holding the food."
+    },
+    "75": {
+      "objects": [
+        "food"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food. The food is in front of the person. The person is holding the food."
+    },
+    "125": {
+      "objects": [
+        "food"
+      ],
+      "attention": {
+        "food": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ]
+      },
+      "script": "The food is in front of the person. The person is holding the food."
+    },
+    "149": {
+      "objects": [
+        "food",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the food and the cup/glass/bottle. The food and the cup/glass/bottle are in front of the person. The cup/glass/bottle is on the side of the person. The person is holding the food. The person is not contacting the cup/glass/bottle."
+    },
+    "175": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The cup/glass/bottle is on the side of the person. The person is not contacting the cup/glass/bottle."
+    },
+    "186": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The cup/glass/bottle is on the side of the person. The person is not contacting the cup/glass/bottle."
+    },
+    "224": {
+      "objects": [
+        "food",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "food": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The person is not looking at the food. The food and the cup/glass/bottle are in front of the person. The person is not contacting the food. The person is holding the cup/glass/bottle."
+    },
+    "262": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The person is holding the cup/glass/bottle."
+    },
+    "299": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The person is holding the cup/glass/bottle."
+    },
+    "300": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The person is holding the cup/glass/bottle."
+    },
+    "389": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The person is holding the cup/glass/bottle."
+    },
+    "446": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The person is holding the cup/glass/bottle."
+    },
+    "478": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The person is holding the cup/glass/bottle."
+    },
+    "484": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The cup/glass/bottle is on the side of the person. The person is holding the cup/glass/bottle."
+    },
+    "560": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is not looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The cup/glass/bottle is on the side of the person. The person is not contacting the cup/glass/bottle."
+    }
+  },
+  "0BNML": {
+    "72": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "touching",
+          "holding"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The bed is on the side of the person. The person is touching the book. The person is holding the book. The person is sitting on the bed."
+    },
+    "74": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is touching the book. The person is sitting on the bed."
+    },
+    "81": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is touching the book. The person is sitting on the bed."
+    },
+    "89": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is touching the book. The person is sitting on the bed."
+    },
+    "133": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The bed is on the side of the person. The person is holding the book. The person is touching the book. The person is sitting on the bed."
+    },
+    "178": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is touching the book. The person is sitting on the bed."
+    },
+    "215": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is touching the book. The person is sitting on the bed."
+    },
+    "219": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is touching the book. The person is sitting on the bed."
+    },
+    "222": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is sitting on the bed."
+    },
+    "240": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is sitting on the bed."
+    },
+    "266": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The bed is on the side of the person. The person is holding the book. The person is touching the book. The person is sitting on the bed."
+    },
+    "358": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "behind",
+          "beneath"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is behind the person. The bed is beneath the person. The person is holding the book. The person is touching the book. The person is sitting on the bed."
+    },
+    "364": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is on the side of the person. The person is holding the book. The person is sitting on the bed."
+    },
+    "400": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The bed is on the side of the person. The person is holding the book. The person is sitting on the bed."
+    },
+    "500": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is sitting on the bed."
+    },
+    "509": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is sitting on the bed."
+    },
+    "513": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is sitting on the bed."
+    },
+    "554": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The bed is on the side of the person. The person is holding the book. The person is sitting on the bed."
+    },
+    "559": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is touching the book. The person is sitting on the bed."
+    },
+    "595": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "touching",
+          "holding"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is touching the book. The person is holding the book. The person is sitting on the bed."
+    },
+    "598": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The bed is on the side of the person. The person is holding the book. The person is touching the book. The person is sitting on the bed."
+    },
+    "629": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is sitting on the bed."
+    },
+    "635": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The person is holding the book. The person is touching the book. The person is sitting on the bed."
+    },
+    "643": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The book is on the side of the person. The bed is beneath the person. The bed is behind the person. The person is touching the book. The person is sitting on the bed."
+    },
+    "654": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book and the bed are on the side of the person. The bed is beneath the person. The bed is behind the person. The person is touching the book. The person is sitting on the bed."
+    },
+    "656": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is not looking at the book and the bed. The book is on the side of the person. The bed is beneath the person. The bed is behind the person. The person is touching the book. The person is sitting on the bed."
+    },
+    "659": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is on the side of the person. The bed is beneath the person. The bed is behind the person. The person is touching the book. The person is sitting on the bed."
+    },
+    "676": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "touching"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is not looking at the book and the bed. The book is on the side of the person. The bed is beneath the person. The bed is behind the person. The person is touching the book. The person is sitting on the bed."
+    },
+    "689": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "touching"
+        ],
+        "bed": [
+          "touching",
+          "sitting_on"
+        ]
+      },
+      "script": "The person is not looking at the book and the bed. The book is in front of the person. The bed is beneath the person. The bed is behind the person. The bed is on the side of the person. The person is touching the book and the bed. The person is sitting on the bed."
+    },
+    "713": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of",
+          "behind"
+        ],
+        "bed": [
+          "beneath",
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "not_contacting"
+        ],
+        "bed": [
+          "sitting_on",
+          "touching"
+        ]
+      },
+      "script": "The person is not looking at the book and the bed. The book and the bed are on the side of the person. The book and the bed are behind the person. The bed is beneath the person. The person is not contacting the book. The person is sitting on the bed. The person is touching the bed."
+    },
+    "718": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of"
+        ],
+        "bed": [
+          "beneath",
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "not_contacting"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is not looking at the book and the bed. The book and the bed are on the side of the person. The bed is beneath the person. The bed is behind the person. The person is not contacting the book. The person is sitting on the bed."
+    },
+    "719": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of"
+        ],
+        "bed": [
+          "beneath",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "not_contacting"
+        ],
+        "bed": [
+          "sitting_on"
+        ]
+      },
+      "script": "The person is not looking at the book and the bed. The book and the bed are on the side of the person. The bed is beneath the person. The person is not contacting the book. The person is sitting on the bed."
+    },
+    "720": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "behind",
+          "on_the_side_of"
+        ],
+        "bed": [
+          "beneath",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "not_contacting"
+        ],
+        "bed": [
+          "touching",
+          "sitting_on"
+        ]
+      },
+      "script": "The person is not looking at the book and the bed. The book is behind the person. The book and the bed are on the side of the person. The bed is beneath the person. The person is not contacting the book. The person is touching the bed. The person is sitting on the bed."
+    },
+    "752": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "behind",
+          "on_the_side_of"
+        ],
+        "bed": [
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "not_contacting"
+        ],
+        "bed": [
+          "other_relationship"
+        ]
+      },
+      "script": "The person is not looking at the book and the bed. The book and the bed are behind the person. The book is on the side of the person. The person is not contacting the book."
+    },
+    "770": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of"
+        ],
+        "bed": [
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "bed": [
+          "other_relationship"
+        ]
+      },
+      "script": "The person is not looking at the book and the bed. The book and the bed are on the side of the person. The bed is behind the person. The person is holding the book."
+    },
+    "773": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of"
+        ],
+        "bed": [
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "touching"
+        ],
+        "bed": [
+          "other_relationship"
+        ]
+      },
+      "script": "The person is not looking at the book and the bed. The book and the bed are on the side of the person. The person is touching the book."
+    },
+    "785": {
+      "objects": [
+        "book",
+        "bed"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "bed": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "bed": [
+          "on_the_side_of",
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "bed": [
+          "other_relationship"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the bed. The book is in front of the person. The book and the bed are on the side of the person. The bed is behind the person. The person is holding the book."
+    },
+    "800": {
+      "objects": [
+        "book"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding",
+          "touching"
+        ]
+      },
+      "script": "The person is looking at the book. The book is in front of the person. The person is holding the book. The person is touching the book."
+    },
+    "818": {
+      "objects": [
+        "book",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "in_front_of"
+        ],
+        "cup/glass/bottle": [
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the cup/glass/bottle. The book is in front of the person. The cup/glass/bottle is behind the person. The cup/glass/bottle is on the side of the person. The person is holding the book. The person is not contacting the cup/glass/bottle."
+    },
+    "820": {
+      "objects": [
+        "book",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of"
+        ],
+        "cup/glass/bottle": [
+          "behind",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the cup/glass/bottle. The book and the cup/glass/bottle are on the side of the person. The cup/glass/bottle is behind the person. The person is holding the book. The person is not contacting the cup/glass/bottle."
+    },
+    "827": {
+      "objects": [
+        "book",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of"
+        ],
+        "cup/glass/bottle": [
+          "behind"
+        ]
+      },
+      "contact": {
+        "book": [
+          "holding"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the book. The person is not looking at the cup/glass/bottle. The book is on the side of the person. The cup/glass/bottle is behind the person. The person is holding the book. The person is not contacting the cup/glass/bottle."
+    },
+    "851": {
+      "objects": [
+        "book",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of",
+          "behind"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The person is not looking at the book. The book and the cup/glass/bottle are on the side of the person. The book is behind the person. The cup/glass/bottle is in front of the person. The person is not contacting the book and the cup/glass/bottle."
+    },
+    "854": {
+      "objects": [
+        "book",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of",
+          "behind"
+        ],
+        "cup/glass/bottle": [
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The person is not looking at the book. The book and the cup/glass/bottle are on the side of the person. The book is behind the person. The person is not contacting the book and the cup/glass/bottle."
+    },
+    "861": {
+      "objects": [
+        "book",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "book": [
+          "looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "on_the_side_of",
+          "behind"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the book and the cup/glass/bottle. The book and the cup/glass/bottle are on the side of the person. The book is behind the person. The cup/glass/bottle is in front of the person. The person is not contacting the book and the cup/glass/bottle."
+    },
+    "862": {
+      "objects": [
+        "book",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "behind",
+          "on_the_side_of"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The person is not looking at the book. The book is behind the person. The book and the cup/glass/bottle are on the side of the person. The cup/glass/bottle is in front of the person. The person is not contacting the book and the cup/glass/bottle."
+    },
+    "881": {
+      "objects": [
+        "book",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "behind"
+        ],
+        "cup/glass/bottle": [
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "touching"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The person is not looking at the book. The book is behind the person. The cup/glass/bottle is on the side of the person. The person is not contacting the book. The person is touching the cup/glass/bottle."
+    },
+    "884": {
+      "objects": [
+        "book",
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "book": [
+          "not_looking_at"
+        ],
+        "cup/glass/bottle": [
+          "unsure"
+        ]
+      },
+      "spatial": {
+        "book": [
+          "behind"
+        ],
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "book": [
+          "not_contacting"
+        ],
+        "cup/glass/bottle": [
+          "touching"
+        ]
+      },
+      "script": "The person is not looking at the book. The book is behind the person. The cup/glass/bottle is in front of the person. The cup/glass/bottle is on the side of the person. The person is not contacting the book. The person is touching the cup/glass/bottle."
+    },
+    "904": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The cup/glass/bottle is on the side of the person. The person is holding the cup/glass/bottle."
+    },
+    "908": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The person is holding the cup/glass/bottle."
+    },
+    "945": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The person is holding the cup/glass/bottle."
+    },
+    "955": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "holding",
+          "touching"
+        ]
+      },
+      "script": "The person is looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The person is holding the cup/glass/bottle. The person is touching the cup/glass/bottle."
+    },
+    "987": {
+      "objects": [
+        "cup/glass/bottle"
+      ],
+      "attention": {
+        "cup/glass/bottle": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "cup/glass/bottle": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "cup/glass/bottle": [
+          "holding"
+        ]
+      },
+      "script": "The person is not looking at the cup/glass/bottle. The cup/glass/bottle is in front of the person. The person is holding the cup/glass/bottle."
+    }
+  },
+  "0BWYH": {
+    "25": {
+      "objects": [
+        "shelf"
+      ],
+      "attention": {
+        "shelf": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "shelf": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "shelf": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the shelf. The shelf is in front of the person. The person is not contacting the shelf."
+    },
+    "26": {
+      "objects": [
+        "shelf"
+      ],
+      "attention": {
+        "shelf": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "shelf": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "shelf": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the shelf. The shelf is in front of the person. The person is not contacting the shelf."
+    },
+    "68": {
+      "objects": [
+        "food",
+        "shelf",
+        "bag"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "shelf": [
+          "not_looking_at"
+        ],
+        "bag": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "beneath"
+        ],
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "bag": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "bag": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food and the bag. The person is not looking at the shelf. The food is beneath the person. The shelf and the bag are in front of the person. The shelf is on the side of the person. The person is holding the food and the bag. The person is not contacting the shelf."
+    },
+    "69": {
+      "objects": [
+        "food",
+        "shelf",
+        "bag"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "bag": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "bag": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "bag": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food, the shelf, and the bag. The food, the shelf, and the bag are in front of the person. The shelf is on the side of the person. The person is holding the food and the bag. The person is not contacting the shelf."
+    },
+    "87": {
+      "objects": [
+        "food",
+        "shelf",
+        "bag"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "bag": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "bag": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "bag": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the food, the shelf, and the bag. The food, the shelf, and the bag are in front of the person. The shelf is on the side of the person. The person is holding the food and the bag. The person is not contacting the shelf."
+    },
+    "110": {
+      "objects": [
+        "food",
+        "shelf",
+        "bag"
+      ],
+      "attention": {
+        "food": [
+          "unsure"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "bag": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of"
+        ],
+        "bag": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "bag": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the shelf and the bag. The food, the shelf, and the bag are in front of the person. The person is holding the food and the bag. The person is not contacting the shelf."
+    },
+    "112": {
+      "objects": [
+        "food",
+        "shelf",
+        "bag"
+      ],
+      "attention": {
+        "food": [
+          "unsure"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "bag": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of"
+        ],
+        "bag": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "bag": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the shelf. The person is not looking at the bag. The food, the shelf, and the bag are in front of the person. The person is holding the food and the bag. The person is not contacting the shelf."
+    },
+    "115": {
+      "objects": [
+        "food",
+        "shelf",
+        "bag"
+      ],
+      "attention": {
+        "food": [
+          "unsure"
+        ],
+        "shelf": [
+          "looking_at"
+        ],
+        "bag": [
+          "not_looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of"
+        ],
+        "bag": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "holding"
+        ],
+        "shelf": [
+          "not_contacting"
+        ],
+        "bag": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the shelf. The person is not looking at the bag. The food, the shelf, and the bag are in front of the person. The person is holding the food and the bag. The person is not contacting the shelf."
+    },
+    "143": {
+      "objects": [
+        "shelf"
+      ],
+      "attention": {
+        "shelf": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "shelf": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the shelf. The shelf is in front of the person. The shelf is on the side of the person. The person is not contacting the shelf."
+    },
+    "152": {
+      "objects": [
+        "shelf"
+      ],
+      "attention": {
+        "shelf": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "shelf": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "shelf": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the shelf. The shelf is in front of the person. The person is not contacting the shelf."
+    },
+    "155": {
+      "objects": [
+        "shelf"
+      ],
+      "attention": {
+        "shelf": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "shelf": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the shelf. The shelf is in front of the person. The shelf is on the side of the person. The person is not contacting the shelf."
+    },
+    "171": {
+      "objects": [
+        "shelf"
+      ],
+      "attention": {
+        "shelf": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "shelf": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the shelf. The shelf is in front of the person. The shelf is on the side of the person. The person is not contacting the shelf."
+    },
+    "175": {
+      "objects": [
+        "food",
+        "shelf"
+      ],
+      "attention": {
+        "food": [
+          "looking_at"
+        ],
+        "shelf": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "food": [
+          "in_front_of"
+        ],
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ]
+      },
+      "contact": {
+        "food": [
+          "not_contacting"
+        ],
+        "shelf": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the food and the shelf. The food and the shelf are in front of the person. The shelf is on the side of the person. The person is not contacting the food and the shelf."
+    },
+    "195": {
+      "objects": [
+        "shelf",
+        "bag"
+      ],
+      "attention": {
+        "shelf": [
+          "looking_at"
+        ],
+        "bag": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "shelf": [
+          "on_the_side_of",
+          "in_front_of"
+        ],
+        "bag": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "shelf": [
+          "not_contacting"
+        ],
+        "bag": [
+          "not_contacting"
+        ]
+      },
+      "script": "The person is looking at the shelf and the bag. The shelf is on the side of the person. The shelf and the bag are in front of the person. The person is not contacting the shelf and the bag."
+    },
+    "198": {
+      "objects": [
+        "shelf"
+      ],
+      "attention": {
+        "shelf": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "shelf": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "shelf": [
+          "touching"
+        ]
+      },
+      "script": "The person is looking at the shelf. The shelf is in front of the person. The person is touching the shelf."
+    },
+    "199": {
+      "objects": [
+        "shelf",
+        "bag"
+      ],
+      "attention": {
+        "shelf": [
+          "looking_at"
+        ],
+        "bag": [
+          "looking_at"
+        ]
+      },
+      "spatial": {
+        "shelf": [
+          "in_front_of",
+          "on_the_side_of"
+        ],
+        "bag": [
+          "in_front_of"
+        ]
+      },
+      "contact": {
+        "shelf": [
+          "touching"
+        ],
+        "bag": [
+          "holding"
+        ]
+      },
+      "script": "The person is looking at the shelf and the bag. The shelf and the bag are in front of the person. The shelf is on the side of the person. The person is touching the shelf. The person is holding the bag."
+    }
+  }
+}
