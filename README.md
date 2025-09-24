@@ -139,20 +139,6 @@ Eg:
 
 **ode**\_**sgdet**\_future\_**1**\_epoch\_**0**
 
-## Settings
-
-### Action Genome Scenes [AGS] (~sgdet)
-
-Download the required checkpoints from [here](https://utdallas.box.com/s/g94v2zfgxkxfgcs68q31lkf3olg6p7wy)
-
-### Partially Grounded Action Genome Scenes [PGAGS] (~sgcls)
-
-Download the required checkpoints from [here](https://utdallas.box.com/s/mvdwz8fe1ct9q8l1pv6ndi0wi7bkbl8r)
-
-### Grounded Action Genome Scenes [GAGS] (~predcls)
-
-Download the required checkpoints from [here](https://utdallas.box.com/s/9xncf5498o4nvqkjzpjp268gajmhiygo)
-
 ------
 
 # Training and Testing
@@ -185,4 +171,4 @@ To run the complete evaluation pipeline:
 bash run_test.sh
 ```
 
-
+Pretrained checkpoints and weights will be released upon acceptance of the paper, in compliance with anonymity requirements.
