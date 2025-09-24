@@ -124,21 +124,6 @@ Follow [this](https://www.youtube.com/watch?v=aai42Qp6L28) for changing gcc vers
 
 Download pretrained fasterRCNN model [here](https://utdallas.box.com/s/gj7n57na15cel6y682pdfn7bmnbbwq8g) and place in fasterRCNN/models/
 
-
-------
-
-
-Please find the checkpoints with the following name structure.
-
-```
-<CKPT_METHOD_NAME>_<MODE>_future_<#TRAIN_FUTURE_FRAMES>_epoch_<#STORED_EPOCH>.tar
-```
-Eg:
-
-**dsgdetr_ant**\_**sgdet**\_future\_**3**\_epoch\_**0**
-
-**ode**\_**sgdet**\_future\_**1**\_epoch\_**0**
-
 ------
 
 # Training and Testing
