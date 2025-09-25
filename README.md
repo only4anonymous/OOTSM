@@ -44,6 +44,8 @@ Dump all frames ```data/ag/frames```
 Download object_bbox_and_relationship_filtersmall.pkl from [here](https://drive.google.com/file/d/19BkAwjCw5ByyGyZjFo174Oc3Ud56fkaT/view)
 and place it in the data loader folder
 
+Note: we extracted these files from the original Action Genome dataset.
+
 ### Install required libraries
 
 ```
