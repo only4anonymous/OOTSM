@@ -41,8 +41,9 @@ Dump all frames ```data/ag/frames```
 #### Change the corresponding data file paths in ```datasets/action_genome/tools/dump_frames.py```
 
 
-Download object_bbox_and_relationship_filtersmall.pkl from the orignal Action Genome dataset ( [here](https://drive.google.com/file/d/19BkAwjCw5ByyGyZjFo174Oc3Ud56fkaT/view) )
-and place it in the data loader folder
+According to SceneSayer's settings, download object_bbox_and_relationship_filtersmall.pkl from [here](https://drive.google.com/file/d/19BkAwjCw5ByyGyZjFo174Oc3Ud56fkaT/view) 
+and place it in the data loader folder.
+
 
 ### Install required libraries
 
